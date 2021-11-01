@@ -1,0 +1,18 @@
+{
+    "name": "Portal.RenderPipelines.Aperture.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:31e95b7ec96ca2645b070bc163633931"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

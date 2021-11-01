@@ -1,0 +1,19 @@
+{
+  "name": "com.portal.render-pipelines.aperture",
+  "description": "The Aperture Render Pipeline (ARP) is a prebuilt Scriptable Render Pipeline base on URP, made by portal studio. ",
+  "version": "0.1.0",
+  "unity": "2021.1",
+  "unityRelease": "9f1",
+  "displayName": "Aperture RP",
+  "dependencies": {
+    "com.unity.render-pipelines.core": "11.0.0"
+  },
+  "keywords": [
+    "graphics",
+    "performance",
+    "rendering",
+    "mobile",
+    "render",
+    "pipeline"
+  ]
+}
